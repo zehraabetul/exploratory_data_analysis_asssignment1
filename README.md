@@ -18,14 +18,14 @@ Sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It co
 Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-PLOT 1:
+
 ![plot1](https://github.com/user-attachments/assets/4b259bcd-1217-44d4-8aa3-7b9a7bb6f156)
 
-PLOT 2:
+
 ![plot2](https://github.com/user-attachments/assets/31c236d2-2dfe-4caa-a34d-7afb4931e2ca)
 
-PLOT 3:
+
 ![plot3](https://github.com/user-attachments/assets/f9475def-f41f-4ef6-af46-d6ae7d5cf538)
 
-PLOT 4:
+
 ![plot4](https://github.com/user-attachments/assets/6824bde7-0a4d-4614-80ae-b9f5eaf4dd0f)
